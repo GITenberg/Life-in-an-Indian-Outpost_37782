@@ -1,0 +1,28 @@
+_repo: Life-in-an-Indian-Outpost_37782
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37782-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Casserly, Gordon
+    birthdate: 1869
+    deathdate: 1947
+    gutenberg_agent_id: '5361'
+    url: http://www.gutenberg.org/2009/agents/5361
+description: ''
+gutenberg_issued: '2011-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37782'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'British -- India'
+- !lcc 'DS'
+- !lcsh 'Bhutan -- Description and travel'
+- !lcsh 'India -- Description and travel'
+title: Life in an Indian Outpost
+url: http://www.gutenberg.org/ebooks/37782
